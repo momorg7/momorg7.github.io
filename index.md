@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### About me
 
-[Project 1 Title](/sample_page)
+[About me](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
