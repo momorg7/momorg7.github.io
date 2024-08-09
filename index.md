@@ -2,10 +2,9 @@
 
 ---
 
-### About me
+### Data Scientist
 
 [About me](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Masters´ Thesis](https://github.com/momorg7/syphilis_ml)
